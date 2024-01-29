@@ -1,0 +1,15 @@
+C:\Users\engineer\Documents\Программирование\CSharp\HomeWork\HW_No6\obj\Debug\net6.0\HW_No6.csproj.AssemblyReference.cache
+C:\Users\engineer\Documents\Программирование\CSharp\HomeWork\HW_No6\obj\Debug\net6.0\HW_No6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\engineer\Documents\Программирование\CSharp\HomeWork\HW_No6\obj\Debug\net6.0\HW_No6.AssemblyInfoInputs.cache
+C:\Users\engineer\Documents\Программирование\CSharp\HomeWork\HW_No6\obj\Debug\net6.0\HW_No6.AssemblyInfo.cs
+C:\Users\engineer\Documents\Программирование\CSharp\HomeWork\HW_No6\obj\Debug\net6.0\HW_No6.csproj.CoreCompileInputs.cache
+C:\Users\engineer\Documents\Программирование\CSharp\HomeWork\HW_No6\bin\Debug\net6.0\HW_No6.exe
+C:\Users\engineer\Documents\Программирование\CSharp\HomeWork\HW_No6\bin\Debug\net6.0\HW_No6.deps.json
+C:\Users\engineer\Documents\Программирование\CSharp\HomeWork\HW_No6\bin\Debug\net6.0\HW_No6.runtimeconfig.json
+C:\Users\engineer\Documents\Программирование\CSharp\HomeWork\HW_No6\bin\Debug\net6.0\HW_No6.dll
+C:\Users\engineer\Documents\Программирование\CSharp\HomeWork\HW_No6\bin\Debug\net6.0\HW_No6.pdb
+C:\Users\engineer\Documents\Программирование\CSharp\HomeWork\HW_No6\obj\Debug\net6.0\HW_No6.dll
+C:\Users\engineer\Documents\Программирование\CSharp\HomeWork\HW_No6\obj\Debug\net6.0\refint\HW_No6.dll
+C:\Users\engineer\Documents\Программирование\CSharp\HomeWork\HW_No6\obj\Debug\net6.0\HW_No6.pdb
+C:\Users\engineer\Documents\Программирование\CSharp\HomeWork\HW_No6\obj\Debug\net6.0\HW_No6.genruntimeconfig.cache
+C:\Users\engineer\Documents\Программирование\CSharp\HomeWork\HW_No6\obj\Debug\net6.0\ref\HW_No6.dll
